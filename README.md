@@ -37,7 +37,7 @@ Rogue Bot is built using the following technologies:
 - [GitHub](https://github.com/) - Version control and collaboration platform
 - [Replit](https://replit.com/) - Online coding platform for hosting and running the bot
 
-##Installation
+## Installation
 ------------
 
 To install and set up Rogue Bot, follow these steps:
@@ -64,12 +64,12 @@ To install and set up Rogue Bot, follow these steps:
    - Add the following line to the `.env` file, replacing `<your-bot-token>` with your actual bot token:
      
      ```
-     TOKEN=<your-token>
+     TOKEN=<your-bot-token>
      ```
 
 5. Run the bot:
    ```
-   python bot.py
+   python main.py
    ```
 ## Usage
 
@@ -108,7 +108,7 @@ Contributions to Rogue Bot are highly appreciated! Whether you want to add new f
 2. Clone your forked repository to your local machine. Open your terminal and run the following command, replacing `<your-username>` with your GitHub username:
 
    ```bash
-   https://github.com/YuvarajSingh-0/Rogue-Bot.git
+   https://github.com/<your-username>/Rogue-Bot.git
    ```
 
 3. Navigate to the project directory:
